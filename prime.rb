@@ -3,3 +3,4 @@ def prime?(i)
     return true
   else 
     return false
+end
